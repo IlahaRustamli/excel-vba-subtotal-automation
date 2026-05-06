@@ -61,11 +61,11 @@ I developed a dynamic VBA macro that:
 
 ### Before Automation
 
-![Before Automation](screenshots/before_automation.png)
+![Before Automation](./screenshots/before_automation.png)
 
 ### After Automation
 
-![After Automation](screenshots/after_automation.png)
+![After Automation](./screenshots/after_automation.png)
 
 ---
 
