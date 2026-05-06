@@ -61,12 +61,11 @@ I developed a dynamic VBA macro that:
 
 ### Before Automation
 
-![Before Automation](./screenshots/before_automation.png)
+![Before Automation](./excel-vba-subtotal-automation/screenshots/before_automation.png)
 
 ### After Automation
 
-![After Automation](./screenshots/after_automation.png)
-
+![After Automation](./excel-vba-subtotal-automation/screenshots/after_automation.png)
 ---
 
 ## Result
